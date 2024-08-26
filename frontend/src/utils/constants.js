@@ -1,0 +1,15 @@
+const ERC20 = "ERC20";
+const ERC721 = "ERC721";
+const ERC1155 = "ERC1155";
+const ERC20Address = '0x7bAEe6376531f904DA815AdA917F131B915f1F59';
+const ERC721Address = '0x31A66CA674200fBa0Db1284760a623619eD1CC82';
+const ERC1155Address = '0xf9f550e7310cd1E08158aDbdEB7a6a5E4c659eEd';
+    
+export {
+    ERC20,
+    ERC721,
+    ERC1155,
+    ERC20Address,
+    ERC721Address,
+    ERC1155Address
+}
